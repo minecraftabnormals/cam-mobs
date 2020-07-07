@@ -1,0 +1,27 @@
+{
+	"item.swampexpansion.slabfish_spawn_egg": "Slabfish Spawn Egg",
+
+	"item.swampexpansion.lionfish_rice_cake": "Lioncam Rice Cake",
+	
+	"entity.swampexpansion.slabfish": "Slabcam",
+	
+	"biome.swampexpansion.marsh": "Marsh",
+	"biome.swampexpansion.mushroom_marsh": "Mushroom Marsh",
+	"biome.swampexpansion.mire": "Mire",
+	
+	"advancements.husbandry.breed_all_slabfish.title": "Funky Genetics",
+	"advancements.husbandry.breed_all_slabfish.description": "Breed all Slabfish variants!",
+	
+	"advancements.husbandry.backpack_slabfish.title": "First Day of School",
+	"advancements.husbandry.backpack_slabfish.description": "Give a Slabfish a backpack",
+	
+	"advancements.adventure.find_natural_slabfish.title": "They Come in Different Colors!",
+	"advancements.adventure.find_natural_slabfish.description": "Find all natural Slabfish variants",
+	
+	"subtitles.entity.slabfish.burp": "Slabcam burps",
+	"subtitles.entity.slabfish.death": "Slabcam dies",
+	"subtitles.entity.slabfish.step": "Slabcam steps",
+	"subtitles.entity.slabfish.hurt": "Slabcam hurts",
+	"subtitles.entity.slabfish.eat": "Slabcam eats",
+	"subtitles.entity.slabfish.transform": "Slabcam transforms"
+}
