@@ -2,7 +2,6 @@
 	"_comment": "Blocks",
 
 	"block.endergetic.puffbug_hive": "Camf Bug Hive",
-	"block.endergetic.hive_hanger": "Hive Hanger",
 	"block.endergetic.boof_block": "Camboof Block",
 	"block.endergetic.boof_dispensed_block": "Dispensed Camboof Block",
 	
@@ -25,5 +24,27 @@
 	
 	"key.endergetic.boof_vest" : "Camboof Vest Activate",
 	"key.endergetic.booflo_inflate" : "Camboof Ride Inflate",
-	"key.endergetic.booflo_slam" : "Camboof Slam"
+	"key.endergetic.booflo_slam" : "Camboof Slam",
+
+	"_______comment": "Subtitles",
+	"subtitles.endergetic.booflo.croak": "Camboof croaks",
+	"subtitles.endergetic.booflo.death": "Camboof dies",
+	"subtitles.endergetic.booflo.deflate": "Camboof deflates",
+	"subtitles.endergetic.booflo.growl": "Camboof growls",
+	"subtitles.endergetic.booflo.hop": "Camboof hops",
+	"subtitles.endergetic.booflo.hop_land": "Camboof lands from hop",
+	"subtitles.endergetic.booflo.hurt": "Camboof hurts",
+	"subtitles.endergetic.booflo.inflate": "Camboof inflates",
+	"subtitles.endergetic.booflo.slam": "Camboof slams",
+	"subtitles.endergetic.puffbug.puff": "Camf Bug puffs",
+	"subtitles.endergetic.puffbug.teleport_to": "Camf Bug teleports to",
+	"subtitles.endergetic.puffbug.teleport_from": "Camf Bug teleports from",
+	"subtitles.endergetic.puffbug.sleep": "Camf Bug snores",
+	"subtitles.endergetic.puffbug.create_item": "Camf Bug creates item",
+	"subtitles.endergetic.puffbug.launch": "Camf Bug launches",
+	"subtitles.endergetic.puffbug.land": "Camf Bug lands",
+	"subtitles.endergetic.puffbug.hurt": "Camf Bug hurts",
+	"subtitles.endergetic.puffbug.death": "Camf Bug dies",
+	"subtitles.endergetic.boof_block.inflate": "Camboof Block inflates",
+	"subtitles.endergetic.booflo_vest.inflate": "Camboof vest inflates"
 }
