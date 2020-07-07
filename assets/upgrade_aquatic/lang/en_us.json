@@ -20,6 +20,5 @@
   "_comment4": "Entities",
   
   "entity.upgrade_aquatic.nautilus": "Nautilkam",
-  "entity.upgrade_aquatic.lionfish": "Lioncam",
-  "entity.upgrade_aquatic.thrasher": "Thrasher",
+  "entity.upgrade_aquatic.lionfish": "Lioncam"
 }
