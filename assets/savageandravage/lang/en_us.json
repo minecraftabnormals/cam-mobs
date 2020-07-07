@@ -1,0 +1,12 @@
+{
+
+	"item.savageandravage.creeper_spores": "Camper Spores",
+	"block.savageandravage.creeper_spore_sack": "Camper Spore Sack",
+	"entity.savageandravage.creeper_spore_cloud": "Camper Spore Cloud",
+	"entity.savageandravage.creepie": "Campie",
+    "savageandravage:subtitles.creepie.hurt": "Campie hurts",
+    "savageandravage:subtitles.creepie.death": "Campie dies",
+	"savageandravage:subtitles.creepie.fuse": "Campie hisses",
+	"savageandravage:subtitles.creepie.convert": "Campie starts converting",
+	"savageandravage:subtitles.creepie.grow": "Campie grows into Camper"
+}
